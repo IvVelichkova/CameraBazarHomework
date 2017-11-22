@@ -1,0 +1,16 @@
+C:\Users\Iv Velichkova\Source\Repos\CameraBazarHomework\CameraBazar.Web\bin\Debug\netcoreapp2.0\CameraBazar.Web.deps.json
+C:\Users\Iv Velichkova\Source\Repos\CameraBazarHomework\CameraBazar.Web\bin\Debug\netcoreapp2.0\CameraBazar.Web.runtimeconfig.json
+C:\Users\Iv Velichkova\Source\Repos\CameraBazarHomework\CameraBazar.Web\bin\Debug\netcoreapp2.0\CameraBazar.Web.runtimeconfig.dev.json
+C:\Users\Iv Velichkova\Source\Repos\CameraBazarHomework\CameraBazar.Web\bin\Debug\netcoreapp2.0\CameraBazar.Web.dll
+C:\Users\Iv Velichkova\Source\Repos\CameraBazarHomework\CameraBazar.Web\bin\Debug\netcoreapp2.0\CameraBazar.Web.pdb
+C:\Users\Iv Velichkova\Source\Repos\CameraBazarHomework\CameraBazar.Web\bin\Debug\netcoreapp2.0\CameraBazar.Data.dll
+C:\Users\Iv Velichkova\Source\Repos\CameraBazarHomework\CameraBazar.Web\bin\Debug\netcoreapp2.0\CameraBazar.Services.dll
+C:\Users\Iv Velichkova\Source\Repos\CameraBazarHomework\CameraBazar.Web\bin\Debug\netcoreapp2.0\CameraBazar.Data.pdb
+C:\Users\Iv Velichkova\Source\Repos\CameraBazarHomework\CameraBazar.Web\bin\Debug\netcoreapp2.0\CameraBazar.Services.pdb
+C:\Users\Iv Velichkova\Source\Repos\CameraBazarHomework\CameraBazar.Web\obj\Debug\netcoreapp2.0\CameraBazar.Web.csprojResolveAssemblyReference.cache
+C:\Users\Iv Velichkova\Source\Repos\CameraBazarHomework\CameraBazar.Web\obj\Debug\netcoreapp2.0\CameraBazar.Web.csproj.CoreCompileInputs.cache
+C:\Users\Iv Velichkova\Source\Repos\CameraBazarHomework\CameraBazar.Web\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Iv Velichkova\Source\Repos\CameraBazarHomework\CameraBazar.Web\obj\Debug\netcoreapp2.0\CameraBazar.Web.AssemblyInfoInputs.cache
+C:\Users\Iv Velichkova\Source\Repos\CameraBazarHomework\CameraBazar.Web\obj\Debug\netcoreapp2.0\CameraBazar.Web.AssemblyInfo.cs
+C:\Users\Iv Velichkova\Source\Repos\CameraBazarHomework\CameraBazar.Web\obj\Debug\netcoreapp2.0\CameraBazar.Web.dll
+C:\Users\Iv Velichkova\Source\Repos\CameraBazarHomework\CameraBazar.Web\obj\Debug\netcoreapp2.0\CameraBazar.Web.pdb

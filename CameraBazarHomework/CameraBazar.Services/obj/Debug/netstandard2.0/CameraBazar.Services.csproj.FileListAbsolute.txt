@@ -1,0 +1,11 @@
+C:\Users\Iv Velichkova\Source\Repos\CameraBazarHomework\CameraBazar.Services\bin\Debug\netstandard2.0\CameraBazar.Services.deps.json
+C:\Users\Iv Velichkova\Source\Repos\CameraBazarHomework\CameraBazar.Services\bin\Debug\netstandard2.0\CameraBazar.Services.dll
+C:\Users\Iv Velichkova\Source\Repos\CameraBazarHomework\CameraBazar.Services\bin\Debug\netstandard2.0\CameraBazar.Services.pdb
+C:\Users\Iv Velichkova\Source\Repos\CameraBazarHomework\CameraBazar.Services\bin\Debug\netstandard2.0\CameraBazar.Data.dll
+C:\Users\Iv Velichkova\Source\Repos\CameraBazarHomework\CameraBazar.Services\bin\Debug\netstandard2.0\CameraBazar.Data.pdb
+C:\Users\Iv Velichkova\Source\Repos\CameraBazarHomework\CameraBazar.Services\obj\Debug\netstandard2.0\CameraBazar.Services.csprojResolveAssemblyReference.cache
+C:\Users\Iv Velichkova\Source\Repos\CameraBazarHomework\CameraBazar.Services\obj\Debug\netstandard2.0\CameraBazar.Services.csproj.CoreCompileInputs.cache
+C:\Users\Iv Velichkova\Source\Repos\CameraBazarHomework\CameraBazar.Services\obj\Debug\netstandard2.0\CameraBazar.Services.AssemblyInfoInputs.cache
+C:\Users\Iv Velichkova\Source\Repos\CameraBazarHomework\CameraBazar.Services\obj\Debug\netstandard2.0\CameraBazar.Services.AssemblyInfo.cs
+C:\Users\Iv Velichkova\Source\Repos\CameraBazarHomework\CameraBazar.Services\obj\Debug\netstandard2.0\CameraBazar.Services.dll
+C:\Users\Iv Velichkova\Source\Repos\CameraBazarHomework\CameraBazar.Services\obj\Debug\netstandard2.0\CameraBazar.Services.pdb

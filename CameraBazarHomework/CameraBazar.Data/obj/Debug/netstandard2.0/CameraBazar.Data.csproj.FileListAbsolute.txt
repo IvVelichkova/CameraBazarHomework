@@ -1,9 +1,0 @@
-C:\Users\Iv Velichkova\Source\Repos\CameraBazarHomework\CameraBazar.Data\bin\Debug\netstandard2.0\CameraBazar.Data.deps.json
-C:\Users\Iv Velichkova\Source\Repos\CameraBazarHomework\CameraBazar.Data\bin\Debug\netstandard2.0\CameraBazar.Data.dll
-C:\Users\Iv Velichkova\Source\Repos\CameraBazarHomework\CameraBazar.Data\bin\Debug\netstandard2.0\CameraBazar.Data.pdb
-C:\Users\Iv Velichkova\Source\Repos\CameraBazarHomework\CameraBazar.Data\obj\Debug\netstandard2.0\CameraBazar.Data.csprojResolveAssemblyReference.cache
-C:\Users\Iv Velichkova\Source\Repos\CameraBazarHomework\CameraBazar.Data\obj\Debug\netstandard2.0\CameraBazar.Data.csproj.CoreCompileInputs.cache
-C:\Users\Iv Velichkova\Source\Repos\CameraBazarHomework\CameraBazar.Data\obj\Debug\netstandard2.0\CameraBazar.Data.AssemblyInfoInputs.cache
-C:\Users\Iv Velichkova\Source\Repos\CameraBazarHomework\CameraBazar.Data\obj\Debug\netstandard2.0\CameraBazar.Data.AssemblyInfo.cs
-C:\Users\Iv Velichkova\Source\Repos\CameraBazarHomework\CameraBazar.Data\obj\Debug\netstandard2.0\CameraBazar.Data.dll
-C:\Users\Iv Velichkova\Source\Repos\CameraBazarHomework\CameraBazar.Data\obj\Debug\netstandard2.0\CameraBazar.Data.pdb
